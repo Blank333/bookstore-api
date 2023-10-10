@@ -19,13 +19,18 @@ Clone the repository to your local machine using the following command:
 git clone https://github.com/Blank333/bookstore-api.git
 ```
 
-### Installing Requirements
+### Installing
 
 Navigate to the project directory and install the required packages:
 
 ```bash
 cd bookstore-api
 pip install -r requirements.txt
+```
+Move to the main directory
+
+```bash
+cd bookstore
 ```
 
 ### Database Setup
